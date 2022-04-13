@@ -6,13 +6,12 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
-
+name: Corey Zappo
+title: Senior System Engineer
+email: coreyzappo@gmail.com
+website: www.coreyzappo.com
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
