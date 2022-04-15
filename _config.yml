@@ -47,9 +47,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Greetings, my name's Corey and I'm a senior system engineer. As well as being responsible for infrastructure engineering I also have experience with information security. I have worked with a plethora of infrastructure gaining new skills and leadership abilities.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>PowerShell</mark> and <mark>Engineering</mark>
 
 content:
   - title: Projects # Title for the section
