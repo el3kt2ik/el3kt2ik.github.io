@@ -45,7 +45,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+#about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Greetings, my name's Corey and I'm a senior system engineer. As well as being responsible for infrastructure engineering I also have experience with information security. I have worked with a plethora of infrastructure gaining new skills and leadership abilities.
 
