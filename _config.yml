@@ -103,15 +103,14 @@ content:
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | # this will include new lines to allow paragraphs - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
       Alongside my interests in engineering and information security some of my other interests and hobbies are:
-      - Automotives
-      - Gaming
       - Homelab
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Gaming
+      - Automotives
 
       Look at this cool image  
-      ![Trees](/website/images/landscape-trees.jpg "Trees")
+      ![Trees](/el3kt2ik.github.io/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
