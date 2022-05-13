@@ -109,8 +109,8 @@ content:
       - Gaming
       - Automotives
 
-      Look at this cool image  
-      ![Trees](https://el3kt2ik.github.io/images/landscape-trees.jpg "Trees")
+    #  Look at this cool image  
+    #  ![Trees](https://el3kt2ik.github.io/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
