@@ -83,7 +83,8 @@ content:
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its infrastructure properly engineered and Morgan Lewis is not omitted from this reality. I ensure any project I lead is properly implemented and behaves in a predictable manner. I am the subject matter expert in most technologies and have implemented a vast array of automations that have increased the team's ability to be productive.
+             Every company needs its infrastructure properly engineered, and Morgan Lewis is not omitted from this reality. I ensure any project I lead is properly implemented and behaves predictably. I am the subject-matter expert in most technologies and have implemented a vast array of automations that have increased the team’s ability to be productive.
+
 
 
   #- title: Education # Title for the section
