@@ -57,12 +57,12 @@ content:
     content:
       - layout: top-middle
         title: MECM OSD Failure Notification Configuration
-        link: github.com/el3kt2ik
+        link: github.com
         # link_text: Project Website
         additional_links:
-          - title:  el3kt2ik/MECM-OSD-Failure-Notification-Configuration
+          - title:  MECM-OSD-Failure-Notification-Configuration
             icon: fab fa-github
-            url: https://github.com/el3kt2ik/MECM-OSD-Failure-Notification-Configuration
+            url: https://github.com
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
