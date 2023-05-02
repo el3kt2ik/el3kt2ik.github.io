@@ -57,19 +57,19 @@ content:
     content:
       - layout: top-middle
         title: MECM OSD Failure Notification Configuration
-        link: github.com
+        link: #github.com
         # link_text: Project Website
         additional_links:
-          - title:  MECM-OSD-Failure-Notification-Configuration
-            icon: fab fa-github
-            url: https://github.com
+          - title:  #MECM-OSD-Failure-Notification-Configuration
+            icon: #fab fa-github
+            url: #https://github.com
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is an example of a shortcoming I identified and the approach I took to improve upon it in a manner that increases productivity. 
+          This is an example of a shortcoming I identified and the approach I took to improve upon it in a manner that increases productivity. Example available upon request.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a means to only obtain the log files and it has since grown into an alerting system. I learned how to leverage the .NET FileSystemWatcher Class through this implementation and I've been proud of having this in my portfolio.
+         I started this project as a means to only obtain the log files and it has since grown into an alerting system. I learned how to leverage the .NET FileSystemWatcher Class through this implementation and I've been proud of having this in my portfolio.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
