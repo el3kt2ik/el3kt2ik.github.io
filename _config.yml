@@ -46,44 +46,44 @@ additional_links:
 # About Section
 # about_title: About Me
 #about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Corey Zappo, I’m a senior system engineer with over 10 years experience. I am currently working for Morgan Lewis as a Senior System Engineer, supporting their back end infrastructure.
-  I enjoy making clean and predictable solutions that are easy to implement, while also being easy to support. Implementing efficiency by identifying tasks that could be automated, and automating them with concise and predictable code utilizing PowerShell is important to me. I have worked with a range of different technologies, and I am always looking for opportunities to work with something new. The technologies that I currently have the most experience working with are: <mark>PowerShell</mark>, <mark>MECM</mark>, <mark>GroupPolicy</mark>, <mark>Windows Server</mark>, <mark>Linux</mark>, <mark>Docker</mark>, <mark>VMware ESXi</mark> & <mark>Microsoft Hyper-V</mark>.
+# about_content: | # this will include new lines to allow paragraphs
+#   Hi, my name is Corey Zappo, I’m a senior system engineer with over 10 years experience. I am currently working for Morgan Lewis as a Senior System Engineer, supporting their back end infrastructure.
+#   I enjoy making clean and predictable solutions that are easy to implement, while also being easy to support. Implementing efficiency by identifying tasks that could be automated, and automating them with concise and predictable code utilizing PowerShell is important to me. I have worked with a range of different technologies, and I am always looking for opportunities to work with something new. The technologies that I currently have the most experience working with are: <mark>PowerShell</mark>, <mark>MECM</mark>, <mark>GroupPolicy</mark>, <mark>Windows Server</mark>, <mark>Linux</mark>, <mark>Docker</mark>, <mark>VMware ESXi</mark> & <mark>Microsoft Hyper-V</mark>.
 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: MECM OSD Failure Notification Configuration
-        link: #github.com
-        # link_text: Project Website
-        additional_links:
-          - title:  #MECM-OSD-Failure-Notification-Configuration
-            icon: #fab fa-github
-            url: #https://github.com
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is an example of a shortcoming I identified and the approach I took to improve upon it in a manner that increases productivity. Example available upon request.
-        description: | # this will include new lines to allow paragraphs
-         I started this project as a means to only obtain the log files and it has since grown into an alerting system. I learned how to leverage the .NET FileSystemWatcher Class through this implementation and I've been proud of having this in my portfolio.
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: MECM OSD Failure Notification Configuration
+  #       link: #github.com
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  #MECM-OSD-Failure-Notification-Configuration
+  #           icon: #fab fa-github
+  #           url: #https://github.com
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is an example of a shortcoming I identified and the approach I took to improve upon it in a manner that increases productivity. Example available upon request.
+  #       description: | # this will include new lines to allow paragraphs
+  #        I started this project as a means to only obtain the log files and it has since grown into an alerting system. I learned how to leverage the .NET FileSystemWatcher Class through this implementation and I've been proud of having this in my portfolio.
 
   - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Morgan Lewis 
-        link: morganlewis.com
-        # link_text: boringcompany.com
-        sub_title: Senior Systems Engineer
-        caption: May 2019  - Present
-        #quote: >
-          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-             Every company needs its infrastructure properly engineered, and Morgan Lewis is not omitted from this reality. I ensure any project I lead is properly implemented and behaves predictably. I am the subject-matter expert in most technologies and have implemented a vast array of automations that have increased the team’s ability to be productive.
+    # layout: list # Type of content section (list/text)
+    # content:
+    #   - layout: left
+    #     title: Morgan Lewis 
+    #     link: morganlewis.com
+    #     # link_text: boringcompany.com
+    #     sub_title: Senior Systems Engineer
+    #     caption: May 2019  - Present
+    #     #quote: >
+    #       #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    #     description: | # this will include new lines to allow paragraphs
+    #          Every company needs its infrastructure properly engineered, and Morgan Lewis is not omitted from this reality. I ensure any project I lead is properly implemented and behaves predictably. I am the subject-matter expert in most technologies and have implemented a vast array of automations that have increased the team’s ability to be productive.
 
 
 
@@ -102,13 +102,13 @@ content:
          # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      Alongside my interests in engineering and information security some of my other interests and hobbies are:
-      - Homelab
-      - Gaming
-      - Automotives
-      - Fitness
+    # layout: text
+    # content: | # this will include new lines to allow paragraphs - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    #   Alongside my interests in engineering and information security some of my other interests and hobbies are:
+    #   - Homelab
+    #   - Gaming
+    #   - Automotives
+    #   - Fitness
 
     #  Look at this cool image  
     #  ![Trees](https://githubaccoutnname.github.io/images/landscape-trees.jpg "Trees")
