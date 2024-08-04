@@ -30,9 +30,9 @@ darkmode: true
 
 # Additional icon links
 additional_links:
-- title: coreyzappo.com
-  icon: fas fa-globe
-  url: https://www.coreyzappo.com
+#- title: coreyzappo.com
+  #icon: fas fa-globe
+ # url: https://www.coreyzappo.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -51,7 +51,7 @@ additional_links:
 #   I enjoy making clean and predictable solutions that are easy to implement, while also being easy to support. Implementing efficiency by identifying tasks that could be automated, and automating them with concise and predictable code utilizing PowerShell is important to me. I have worked with a range of different technologies, and I am always looking for opportunities to work with something new. The technologies that I currently have the most experience working with are: <mark>PowerShell</mark>, <mark>MECM</mark>, <mark>GroupPolicy</mark>, <mark>Windows Server</mark>, <mark>Linux</mark>, <mark>Docker</mark>, <mark>VMware ESXi</mark> & <mark>Microsoft Hyper-V</mark>.
 
 
-content:
+#content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
@@ -71,7 +71,7 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #        I started this project as a means to only obtain the log files and it has since grown into an alerting system. I learned how to leverage the .NET FileSystemWatcher Class through this implementation and I've been proud of having this in my portfolio.
 
-  - title: Experience # Title for the section
+  #- title: Experience # Title for the section
     # layout: list # Type of content section (list/text)
     # content:
     #   - layout: left
