@@ -14,8 +14,8 @@ website: www.coreyzappo.com
 darkmode: true
 
 content:
+    -title: hello
     layout: text
-    title: hello
     content:
      - Images ![Trees](/images/landscape-trees.jpg)
 
