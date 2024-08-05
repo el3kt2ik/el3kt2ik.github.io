@@ -55,6 +55,7 @@ darkmode: true
 content:
   - title: TEST
     layout: text
+    content:
      - Images ![Trees](/images/landscape-trees.jpg "Trees")
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
