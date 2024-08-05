@@ -15,6 +15,7 @@ darkmode: true
 
 content:
     layout: text
+    title: hello
     content:
      - Images ![Trees](/images/landscape-trees.jpg)
 
