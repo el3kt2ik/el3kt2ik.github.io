@@ -13,11 +13,11 @@ website: www.coreyzappo.com
 # Dark Mode (true/false/never)
 darkmode: true
 
-content:
-    -title: hello
-    layout: text
-    content:
-     - Images ![Trees](/images/landscape-trees.jpg)
+# content:
+#     -title: hello
+#     layout: text
+#     content:
+#      - Images ![Trees](/images/landscape-trees.jpg)
 
 # Social links
 #twitter_username: placeholder
