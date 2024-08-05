@@ -116,7 +116,7 @@ darkmode: true
 
 # Footer
 footer_show_references: true
-references_title: References on requests (Override references text)
+# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
