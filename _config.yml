@@ -13,8 +13,8 @@ website: www.coreyzappo.com
 # Dark Mode (true/false/never)
 darkmode: true
 
-# content:
-#     -title: hello
+content:
+  -title: hello
 #     layout: text
 #     content:
 #      - Images ![Trees](/images/landscape-trees.jpg)
