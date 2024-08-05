@@ -36,6 +36,7 @@ additional_links:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+- Images ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -46,9 +47,9 @@ additional_links:
 # About Section
 # about_title: About Me
 # about_profile_image: images/profile.jpg
- about_content: | # this will include new lines to allow paragraphs
-   Hi, my name is Corey Zappo, I’m a senior system engineer with over 10 years experience. I am currently working for Morgan Lewis as a Senior System Engineer, supporting their back end infrastructure.
-   I enjoy making clean and predictable solutions that are easy to implement, while also being easy to support. Implementing efficiency by identifying tasks that could be automated, and automating them with concise and predictable code utilizing PowerShell is important to me. I have worked with a range of different technologies, and I am always looking for opportunities to work with something new. The technologies that I currently have the most experience working with are: <mark>PowerShell</mark>, <mark>MECM</mark>, <mark>GroupPolicy</mark>, <mark>Windows Server</mark>, <mark>Linux</mark>, <mark>Docker</mark>, <mark>VMware ESXi</mark> & <mark>Microsoft Hyper-V</mark>.
+#  about_content: | # this will include new lines to allow paragraphs
+#    Hi, my name is Corey Zappo, I’m a senior system engineer with over 10 years experience. I am currently working for Morgan Lewis as a Senior System Engineer, supporting their back end infrastructure.
+#    I enjoy making clean and predictable solutions that are easy to implement, while also being easy to support. Implementing efficiency by identifying tasks that could be automated, and automating them with concise and predictable code utilizing PowerShell is important to me. I have worked with a range of different technologies, and I am always looking for opportunities to work with something new. The technologies that I currently have the most experience working with are: <mark>PowerShell</mark>, <mark>MECM</mark>, <mark>GroupPolicy</mark>, <mark>Windows Server</mark>, <mark>Linux</mark>, <mark>Docker</mark>, <mark>VMware ESXi</mark> & <mark>Microsoft Hyper-V</mark>.
 
 
 #content:
