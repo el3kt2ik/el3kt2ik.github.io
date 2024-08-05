@@ -16,7 +16,7 @@ darkmode: true
 content:
     layout: text
     content:
-     - Images ![Trees](/images/landscape-trees.jpg "Trees")
+     - Images ![Trees](images/landscape-trees.jpg "Trees")
 
 # Social links
 #twitter_username: placeholder
