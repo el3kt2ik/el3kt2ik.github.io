@@ -44,14 +44,14 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-#about_profile_image: images/profile.jpg
-# about_content: | # this will include new lines to allow paragraphs
-#   Hi, my name is Corey Zappo, I’m a senior system engineer with over 10 years experience. I am currently working for Morgan Lewis as a Senior System Engineer, supporting their back end infrastructure.
-#   I enjoy making clean and predictable solutions that are easy to implement, while also being easy to support. Implementing efficiency by identifying tasks that could be automated, and automating them with concise and predictable code utilizing PowerShell is important to me. I have worked with a range of different technologies, and I am always looking for opportunities to work with something new. The technologies that I currently have the most experience working with are: <mark>PowerShell</mark>, <mark>MECM</mark>, <mark>GroupPolicy</mark>, <mark>Windows Server</mark>, <mark>Linux</mark>, <mark>Docker</mark>, <mark>VMware ESXi</mark> & <mark>Microsoft Hyper-V</mark>.
+ about_title: About Me
+ about_profile_image: images/profile.jpg
+ about_content: | # this will include new lines to allow paragraphs
+   Hi, my name is Corey Zappo, I’m a senior system engineer with over 10 years experience. I am currently working for Morgan Lewis as a Senior System Engineer, supporting their back end infrastructure.
+   I enjoy making clean and predictable solutions that are easy to implement, while also being easy to support. Implementing efficiency by identifying tasks that could be automated, and automating them with concise and predictable code utilizing PowerShell is important to me. I have worked with a range of different technologies, and I am always looking for opportunities to work with something new. The technologies that I currently have the most experience working with are: <mark>PowerShell</mark>, <mark>MECM</mark>, <mark>GroupPolicy</mark>, <mark>Windows Server</mark>, <mark>Linux</mark>, <mark>Docker</mark>, <mark>VMware ESXi</mark> & <mark>Microsoft Hyper-V</mark>.
 
 
-content:
+#content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
@@ -101,17 +101,17 @@ content:
 
          # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      Alongside my interests in engineering and information security some of my other interests and hobbies are:
-      - Homelab
-      - Gaming
-      - Automotives
-      - Fitness
-      [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  #     Alongside my interests in engineering and information security some of my other interests and hobbies are:
+  #     - Homelab
+  #     - Gaming
+  #     - Automotives
+  #     - Fitness
+  #     [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      - Images ![Trees](/images/landscape-trees.jpg "Trees")
+  #     - Images ![Trees](/images/landscape-trees.jpg "Trees")
      
 
 # Footer
